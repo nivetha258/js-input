@@ -1,0 +1,45 @@
+
+body{background-color:#f3f2ef}
+
+.header{background-color:white}
+
+.header .website-icon {
+	color:#0a66c2;
+	font-size:40px;
+}
+.search{
+	padding:5px 10px 0 10px;
+	background-color:#0d6efd1a;
+}
+input {
+
+	background-color:transparent;
+}
+.header .nav-icons a {
+	display:inline-block;
+	text-decoration:none;
+	padding:0 10px;
+	color:#717070f5;
+	font-size:12px;
+	border-bottom:2px white solid;
+}
+.header .nav-icons a i{
+	font-size:22px;
+	padding-bottom:5px;
+	display:block;
+}
+.header .nav-icons a img{
+	border-radius:50%;
+	width:22px;
+	display:block;
+}
+.nav-icons .work{border-left:1px solid lightgray}
+.header .nav-icons div a{
+	color:#c66e10;
+	display:block
+}
+.header .nav-icons a:hover {
+	color:black;
+	border-bottom:2px black solid;
+}
+			/*---------------------------main section starts------------*/
